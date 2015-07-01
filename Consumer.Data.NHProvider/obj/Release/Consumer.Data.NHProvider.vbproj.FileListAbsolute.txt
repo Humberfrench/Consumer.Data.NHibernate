@@ -1,0 +1,15 @@
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Release\Consumer.Data.NHProvider.dll
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Release\Consumer.Data.NHProvider.pdb
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Release\Consumer.Data.NHProvider.xml
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Release\NHibernate.dll
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Release\Iesi.Collections.dll
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Release\NHibernate.pdb
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Release\NHibernate.xml
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Release\Iesi.Collections.pdb
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Release\Iesi.Collections.xml
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Release\Consumer.Data.NHProvider.Resources.resources
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Release\Consumer.Data.NHProvider.vbproj.GenerateResource.Cache
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Release\Consumer.Data.NHProvider.dll
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Release\Consumer.Data.NHProvider.xml
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Release\Consumer.Data.NHProvider.pdb
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Release\Consumer.Data.NHProvider.vbprojResolveAssemblyReference.cache

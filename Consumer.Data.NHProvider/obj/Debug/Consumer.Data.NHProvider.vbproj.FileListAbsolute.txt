@@ -1,0 +1,51 @@
+C:\Users\Humberto.Gonçalves.CMA\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\Consumer.Data.NHProvider.dll
+C:\Users\Humberto.Gonçalves.CMA\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\Consumer.Data.NHProvider.pdb
+C:\Users\Humberto.Gonçalves.CMA\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\Consumer.Data.NHProvider.xml
+C:\Users\Humberto.Gonçalves.CMA\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Debug\Consumer.Data.NHProvider.Resources.resources
+C:\Users\Humberto.Gonçalves.CMA\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Debug\Consumer.Data.NHProvider.vbproj.GenerateResource.Cache
+C:\Users\Humberto.Gonçalves.CMA\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Debug\Consumer.Data.NHProvider.dll
+C:\Users\Humberto.Gonçalves.CMA\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Debug\Consumer.Data.NHProvider.xml
+C:\Users\Humberto.Gonçalves.CMA\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Debug\Consumer.Data.NHProvider.pdb
+C:\Documentos Humber\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\Consumer.Data.NHProvider.dll
+C:\Documentos Humber\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\Consumer.Data.NHProvider.pdb
+C:\Documentos Humber\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\Consumer.Data.NHProvider.xml
+C:\Documentos Humber\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\NHibernate.dll
+C:\Documentos Humber\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\Iesi.Collections.dll
+C:\Documentos Humber\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\NHibernate.pdb
+C:\Documentos Humber\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\NHibernate.xml
+C:\Documentos Humber\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\Iesi.Collections.pdb
+C:\Documentos Humber\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\Iesi.Collections.xml
+C:\Documentos Humber\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Debug\Consumer.Data.NHProvider.Resources.resources
+C:\Documentos Humber\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Debug\Consumer.Data.NHProvider.vbproj.GenerateResource.Cache
+C:\Documentos Humber\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Debug\Consumer.Data.NHProvider.dll
+C:\Documentos Humber\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Debug\Consumer.Data.NHProvider.xml
+C:\Documentos Humber\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Debug\Consumer.Data.NHProvider.pdb
+C:\Users\BETO E TAIS\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\Consumer.Data.NHProvider.dll
+C:\Users\BETO E TAIS\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\Consumer.Data.NHProvider.pdb
+C:\Users\BETO E TAIS\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\Consumer.Data.NHProvider.xml
+C:\Users\BETO E TAIS\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\NHibernate.dll
+C:\Users\BETO E TAIS\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\Iesi.Collections.dll
+C:\Users\BETO E TAIS\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\NHibernate.pdb
+C:\Users\BETO E TAIS\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\NHibernate.xml
+C:\Users\BETO E TAIS\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\Iesi.Collections.pdb
+C:\Users\BETO E TAIS\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\Iesi.Collections.xml
+C:\Users\BETO E TAIS\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Debug\Consumer.Data.NHProvider.Resources.resources
+C:\Users\BETO E TAIS\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Debug\Consumer.Data.NHProvider.vbproj.GenerateResource.Cache
+C:\Users\BETO E TAIS\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Debug\Consumer.Data.NHProvider.dll
+C:\Users\BETO E TAIS\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Debug\Consumer.Data.NHProvider.xml
+C:\Users\BETO E TAIS\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Debug\Consumer.Data.NHProvider.pdb
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\Consumer.Data.NHProvider.dll
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\Consumer.Data.NHProvider.pdb
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\Consumer.Data.NHProvider.xml
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\NHibernate.dll
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\Iesi.Collections.dll
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\NHibernate.pdb
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\NHibernate.xml
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\Iesi.Collections.pdb
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\bin\Debug\Iesi.Collections.xml
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Debug\Consumer.Data.NHProvider.vbprojResolveAssemblyReference.cache
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Debug\Consumer.Data.NHProvider.Resources.resources
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Debug\Consumer.Data.NHProvider.vbproj.GenerateResource.Cache
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Debug\Consumer.Data.NHProvider.dll
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Debug\Consumer.Data.NHProvider.xml
+C:\Users\Humberto\Dropbox\Desenvolvimento\Frameworks\New Framework\Consumer.Data.NHProvider\obj\Debug\Consumer.Data.NHProvider.pdb

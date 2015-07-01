@@ -1,0 +1,129 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Consumer.NHProvider
+</name>
+</assembly>
+<members>
+<member name="M:Consumer.NHProvider.NHProvider`2.#ctor">
+	<summary>
+ Construtor do Objeto
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Consumer.NHProvider.NHProvider`2.Add(`0)">
+	<summary>
+ Efetua a inclusão de um registro
+ </summary>
+	<param name="oPersist">Objeto do Model contendo os dados</param>
+	<returns>Booleando para a função</returns>
+	<remarks></remarks>
+</member><member name="M:Consumer.NHProvider.NHProvider`2.Update(`0)">
+	<summary>
+ Efetua a atualização de um registro
+ </summary>
+	<param name="oPersist">Objeto do Model contendo os dados</param>
+	<returns>Booleando para a função</returns>
+	<remarks></remarks>
+</member><member name="M:Consumer.NHProvider.NHProvider`2.Get(`1)">
+	<summary>
+ Efetua a buasca de um registro
+ </summary>
+	<param name="oValue">Valor do ID para a busca</param>
+	<returns>Booleando para a função</returns>
+	<remarks></remarks>
+</member><member name="M:Consumer.NHProvider.NHProvider`2.List">
+	<summary>
+ Efetua a lista de registros
+ </summary>
+	<returns>Booleando para a função</returns>
+	<remarks></remarks>
+</member><member name="M:Consumer.NHProvider.NHProvider`2.Del(`0@)">
+	<summary>
+ Efetua a exclusão de um registro
+ </summary>
+	<param name="oPersist">Objeto do Model contendo os dados</param>
+	<returns>Booleando para a função</returns>
+	<remarks></remarks>
+</member><member name="T:Consumer.NHProvider.NHProvider`2">
+	<summary>
+ Classe Provider, de acesso a dados via NHibernate.
+ </summary>
+	<typeparam name="ClassName">Nome da Classe Base a ser usada</typeparam>
+	<typeparam name="ClassID">Tipo de ID da classe</typeparam>
+	<remarks></remarks>
+</member><member name="M:Consumer.NHProvider.GenericDao`2.#ctor">
+	<summary>
+ Construtor, obtém a sessão do NHibernateHelper e inicia a transação.
+ </summary>
+</member><member name="M:Consumer.NHProvider.GenericDao`2.Insert(`0)">
+	<summary>
+ Persiste um novo objeto.
+ </summary>
+	<param name="Obj">Objeto a ser persistido</param>
+	<returns>True para sucesso, False para erro.</returns>
+</member><member name="M:Consumer.NHProvider.GenericDao`2.Update(`0)">
+	<summary>
+ Atualiza um objeto existente.
+ </summary>
+	<param name="Obj">Objeto a ser atualizado</param>
+	<returns>True para sucesso, False para erro.</returns>
+</member><member name="M:Consumer.NHProvider.GenericDao`2.Delete(`0)">
+	<summary>
+ Exclui um objeto existente.
+ </summary>
+	<param name="Obj">Objeto a ser atualizado</param>
+	<returns>True para sucesso, False para erro.</returns>
+</member><member name="M:Consumer.NHProvider.GenericDao`2.Find(`1)">
+	<summary>
+ Recupera um objeto persistido na base de dados.
+ </summary>
+	<param name="Identifier">Chave primária do objeto</param>
+	<returns>Objeto</returns>
+</member><member name="M:Consumer.NHProvider.GenericDao`2.LoadAll">
+	<summary>
+ Retorna todos os objetos persistidos na base de dados.
+ </summary>
+	<returns>Coleção de objetos</returns>
+</member><member name="M:Consumer.NHProvider.GenericDao`2.Commit">
+	<summary>
+ Confirma a transação corrente (commit)
+ </summary>
+</member><member name="M:Consumer.NHProvider.GenericDao`2.BeginTransaction">
+	<summary>
+ Desfaz a transação corrente (rollback)
+ </summary>
+</member><member name="M:Consumer.NHProvider.GenericDao`2.Rollback">
+	<summary>
+ Begin Trans
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Consumer.NHProvider.GenericDao`2.Prepare">
+	<summary>
+ Reinicia a Sessão
+ </summary>
+	<remarks></remarks>
+</member><member name="T:Consumer.NHProvider.GenericDao`2">
+	<summary>
+ Classe genérica para acesso a dados utilizando NHibernate. Como utiliza generics, é possível persistir
+ qualquer objeto, bastando definir os tipos a serem usados no lugar de Tipo e ID.
+ <example>
+ Dim usuario As New Usuario
+ Dim usuarioDAO As New GenericDAO(Of Usuario, Integer) 
+ 
+ usuario.Nome = "Rogério"
+ usuario.Telefone = "19 32612649"
+ usuario.Email = "bragil@gmail.com"
+ 
+ If usuarioDAO.Insert(usuario) Then
+      Console.WriteLine("Sucesso!")
+ Else
+      Console.WriteLine("Erro ao inserir registro!")
+ End If
+ </example>
+	</summary>
+	<typeparam name="Tipo">Tipo do objeto persistível</typeparam>
+	<typeparam name="ID">Tipo de dado do identificador único (chave primária)</typeparam>
+</member>
+</members>
+</doc>
